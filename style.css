@@ -64,7 +64,7 @@ p {
 }
 
 #line {
-  margin: 157px 340px 20px;
+  margin: 157px auto 20px;
   border: 1px solid #00BFA6;
   width: 568px;
   height: 0px;
