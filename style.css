@@ -76,3 +76,7 @@ p {
   line-height: 28px;
   text-align: center;
 }
+
+#insta:hover {
+  font-weight: bold;
+}
