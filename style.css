@@ -40,7 +40,7 @@ main {
   display: flex;
   align-items: center;
   gap: 110px;
-  margin: 100px 80px 200px 80px;
+  margin: 100px 80px 180px 80px;
 }
 
 h1 {
@@ -64,6 +64,8 @@ p {
 }
 
 #line {
+  display: flex;
+  align-items: center;
   margin: 157px auto 20px;
   border: 1px solid #00BFA6;
   width: 568px;
@@ -79,4 +81,10 @@ p {
 
 #insta:hover {
   font-weight: bold;
+}
+
+#cadeado {
+  position: fixed;
+  left: 60px;
+  bottom: 25px;
 }
